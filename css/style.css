@@ -140,6 +140,7 @@ body{
     transform: translateX(0);
     visibility: visible;
     opacity: 1;
+    font-family: "galaxy",sans-serif;
 }
 
 #FortuceMenu nav .info{
@@ -342,13 +343,7 @@ body{
     #FortuceMenu .sci{
 
         right: 20px;
-        bottom: 0px;
-    }
-    
-    #FortuceMenu .sci{
-        
-        right: 10px;
-        bottom: 10px;
+        bottom: 20px;
     }
     
     #FortuceMenu .sci li{
