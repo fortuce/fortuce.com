@@ -27,7 +27,7 @@ body{
 
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
+    font-family: "galaxy",sans-serif;
 }
 
 #FortuceMenu{
@@ -140,7 +140,6 @@ body{
     transform: translateX(0);
     visibility: visible;
     opacity: 1;
-    font-family: "galaxy",sans-serif;
 }
 
 #FortuceMenu nav .info{
@@ -269,7 +268,6 @@ body{
 
     display: grid;
     place-content: center;
-    font-family: "galaxy",sans-serif;
     font-size: clamp(1rem,0rem + 15vw,10rem);
     font-weight: 500;
     text-transform: uppercase;
